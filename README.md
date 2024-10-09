@@ -7,24 +7,18 @@ Part A: Fintuning gemma-2b with various usecases
 
 Part B: Continued pretraining to teach gemma-2b spanish
 - Colab: Continued_pretraining_Spanish_+_Unsloth.ipynb
-- Video link: Out of memory error
 
 Part C: Chat templates:
 - Colab: Alpaca_+_TinyLlama_+_RoPE_Scaling_full_example.ipynb
-- Video link: Out of memory error
 
 Part D: Reward modeling with DPO
 - Colab: DPO_Zephyr_Unsloth_Example.ipynb
-- Video link: Out of memory error
 
 Part E: Continued pretraining with custom checkpt
 - Colab: Continued_pretraining_Spanish_+_Unsloth.ipynb
-- Video link: Out of memory error
 
 Part F: Finetuning for mental health chatbot
 - Colab: 
-- Video link:
 
 Part G: Export finetuned model to ollama with inferance
-- Colab:
-- Video link:
+- Colab: Ollama_+_Unsloth_+_Llama_3_+_Alpaca.ipynb
